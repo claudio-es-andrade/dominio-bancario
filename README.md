@@ -53,3 +53,10 @@ classDiagram
   User "1" *-- "N" News
 ```
 
+# Documentação da API (Swagger)
+## https://dominio-bancario-prd.up.railway.app/swagger-ui.html
+
+Esta API ficará disponível no Railway por um período de tempo limitado, mas este é um código-fonte aberto. 
+
+
+    URL de Produção: https://dominio-bancario-prd.up.railway.app/users/1
