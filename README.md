@@ -50,8 +50,8 @@ classDiagram
 ```
 
 # Documentação da API (Swagger)
-## https://dominio-bancario-prd.up.railway.app/swagger-ui.html
+## Descontinuado...
 
 Esta API ficará disponível no Railway por um período de tempo limitado. 
 
-    URL de Produção: https://dominio-bancario-prd.up.railway.app/users/1
+    URL de Produção: Descontinuado...
